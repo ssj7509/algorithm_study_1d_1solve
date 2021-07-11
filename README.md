@@ -1,0 +1,1 @@
+# algorithm_study_1d_1solve
